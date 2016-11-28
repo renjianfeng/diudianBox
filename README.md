@@ -7,11 +7,11 @@
 
 ###开始使用 begin
 
-##方法1.在页面上通过css引入
+####方法1.在页面上通过css引入
 ```html  
   <link rel="stylesheet" href="css/diudian.css">
 ```
-##方法2.通过SASS @import到你的.scss文件
+####方法2.通过SASS @import到你的.scss文件
 ```css  
   @import "diudian.scss";
 ```
