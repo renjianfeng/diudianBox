@@ -37,7 +37,7 @@ demo
         </div>
 ```
 弹性效果
-![image](http://www.diudian.com/image/btth3.gif)
+![image](https://github.com/renjianfeng/diudianBox/raw/master/showgif/btth3.gif)
 
 ####表格布局模型
 #####类似于table中的td标签，同列中的多个子栏目永不换行，如果单行列数之和超过12（col-列数），超出12个之后的被压缩至最小宽度，如果单行列数之和少于12（col-列数），将重新按照比例分配宽度，确保当前行铺满！。
@@ -59,7 +59,7 @@ demo
     </div>
 ```
 弹性效果
-![image](http://www.diudian.com/image/btth1.gif)
+![image](https://github.com/renjianfeng/diudianBox/raw/master/showgif/btth1.gif)
 
 
 ####栅格布局模型
@@ -82,4 +82,4 @@ demo
     </div>
 ```
 弹性效果
-![image](http://www.diudian.com/image/btth2.gif)
+![image](https://github.com/renjianfeng/diudianBox/raw/master/showgif/btth2.gif)
